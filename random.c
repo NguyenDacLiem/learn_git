@@ -3,7 +3,7 @@ Nguyen#include <stdio.h>
 #include <time.h>
 
 #define REPEAT 10
-
+ffhfgh
 int main( void )
 {
 	int i = 0;
