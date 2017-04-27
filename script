@@ -1,0 +1,26 @@
+#!/bin/bash
+echo Hello Word
+for i in {3..7}
+do
+	echo "for counting $i"
+done
+
+for i in {1..17}
+do
+	echo "for 2 counting $i"
+done
+
+let i=3
+while [ $i -ge 3 -a $i -le 7 ];
+do
+	echo "while counting $i";
+	let i++;
+done
+
+let i=8
+until [ $i -lt 4 ];
+do 
+	echo "until counting down $i"
+	let i--
+done
+
