@@ -1,4 +1,4 @@
-NguyenZZ#include <stdio.h>
+<stdio.h>
 #include <stdlib.h>
 #include <time.h>
 
